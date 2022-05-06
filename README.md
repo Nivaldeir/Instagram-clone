@@ -7,14 +7,19 @@ Foi criado uma API REST FULL no Nodejs para fazer tais solicitações do usuario
 <h4>Tecnologias</h4>
 <h6>Back-end</h6>
 - Nodejs
+
 - Mangodb
+
 - express
+
+
 <h6>Front-end</h6>
 - Reactjs
 
 
-Desenvolvedor:
+<h4>Desenvolvedor:
 Nivaldeir S. da Silva
 
 Linkedin:
 [https://www.linkedin.com/in/nivaldeir/]
+</h4>
