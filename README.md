@@ -24,15 +24,15 @@ Para colocar uma cópia local em execução, siga estas etapas de exemplo simple
 
 Abaixo está um exemplo de como você pode instruir seu público sobre como instalar e configurar seu aplicativo. Este modelo não depende de nenhuma dependência ou serviço externo.
 
-2. Clonando repositorio
+1. Clonando repositorio
    ```sh
    git clone https://github.com/Nivaldeir/instagram-clone.git
    ```
-3. Instalando os pacote de dependencia 
+2. Instalando os pacote de dependencia 
    ```sh
    npm install
    ```
-4. Configurando a variavel de ambiente `.env.`
+3. Configurando a variavel de ambiente `.env`
    ```js
    MONGO_URI = 'ENTER YOUR API';
    ```
@@ -43,14 +43,6 @@ Abaixo está um exemplo de como você pode instruir seu público sobre como inst
 ## API
 A api full rest desenvolvido foi hospedado em heroku, segue o link de acesso, onde poderá fazer as requisições
 https://instagrambackend10.herokuapp.com/]
-
-
-## Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE.txt` para mais informações.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 
