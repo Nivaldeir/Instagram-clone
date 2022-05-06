@@ -1,2 +1,1 @@
-# INSTAGRAM CLONE
-<p>teste</p>
+<h1 align="center">teste</h1>
